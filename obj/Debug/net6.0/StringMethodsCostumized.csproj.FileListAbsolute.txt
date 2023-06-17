@@ -1,0 +1,15 @@
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\bin\Debug\net6.0\StringMethodsCostumized.exe
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\bin\Debug\net6.0\StringMethodsCostumized.deps.json
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\bin\Debug\net6.0\StringMethodsCostumized.runtimeconfig.json
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\bin\Debug\net6.0\StringMethodsCostumized.dll
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\bin\Debug\net6.0\StringMethodsCostumized.pdb
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\StringMethodsCostumized.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\StringMethodsCostumized.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\StringMethodsCostumized.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\StringMethodsCostumized.AssemblyInfo.cs
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\StringMethodsCostumized.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\StringMethodsCostumized.dll
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\refint\StringMethodsCostumized.dll
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\StringMethodsCostumized.pdb
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\StringMethodsCostumized.genruntimeconfig.cache
+C:\Users\Asus\Downloads\StringMethodsCostumized\StringMethodsCostumized\obj\Debug\net6.0\ref\StringMethodsCostumized.dll
